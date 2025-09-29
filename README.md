@@ -1,5 +1,4 @@
 # 💫 Hi 👋, I'm Harsh Tyagi
-**A Cloud || DevOps Engineer**
 
 👉 ✉️ **harrssttyagi@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
