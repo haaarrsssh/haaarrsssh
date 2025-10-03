@@ -3,7 +3,6 @@
 👉 ✉️ **harrssttyagi@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
  🔭 **I’m currently working on:** Android/IOS News App
-- 🌱 **I’m currently learning:** DeepLearning
 -  💬 **Ask me about:** Collaboration, Tech Support
 
 # 💻 Tech Stack:
