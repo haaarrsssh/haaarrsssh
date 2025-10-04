@@ -33,16 +33,8 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 ## 🚀 Projects
 
 - [ML streak](https://github.com/haaarrsssh/ml) - 5+ Machine Learning Projects
-- [Notes and code for Programming Massively Parallel Processors](https://github.com/harrrsssh/PMPP_notes)
-- [Data_structures ANd Algorithm](https://github.com/haaarrsssh/algorithms_and_data_structures-master)
+- [Data_structures And Algorithm](https://github.com/haaarrsssh/algorithms_and_data_structures-master)
 - [Modern C++ Concepts](https://github.com/haaarrsssh/Modern-C-Concepts)
-
-## 🌱 Latest Blog Posts
-
-- [Primer on Large Language Model (LLM) Inference Optimizations : 1. Background and Problem Formulation](https://haaarrsssh.github.io/posts/LLM_inference_1/)
-- [Primer On Large Language Model (LLM) Inference Optimizations : 2. Introduction to Artificial Intelligence (AI) Accelerators](https://haaarrsssh.github.io/posts/LLM_inference_2)
-- [Primer on Large Language Model (LLM) Inference Optimizations: 3. Model Architecture Optimizations](https://haaarrsssh.github.io/posts/model_architecture_optimizations/)
-- [Scaling Laws in Large Language Models](https://haaarrrsssh.github.io/posts/scaling_laws/)
 
 
 <!--
