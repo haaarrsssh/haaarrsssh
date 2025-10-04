@@ -28,7 +28,7 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haaarrsssh&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haaarrsssh)
+
 
 ## 🚀 Projects
 
