@@ -68,9 +68,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haaarrsssh&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haaarrsssh&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haaarrsssh&theme=aura&utcOffset=8)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haaarrsss&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="haaarrsssh" /></p>
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=aura" alt="haaarrsssh" /></a> </p>
 
 </div> <hr>
 
