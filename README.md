@@ -48,13 +48,6 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=haaarrsssh&theme=react-dark&hide_border=true&area=true)
 
 
-<!--<h2 align="center">Dev Legacy!<h2>
-<p align="center">
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevPioneerpng.gif" alt="Dev Pioneer" height="200" width="200" /></a>
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevEnhancerpng.gif" alt="Dev Enhancer" height="200" width="200" /></a>
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevInnovatorpng.gif" alt="Dev Innovator" height="200" width="200" /></a>
-</p>-->
-
 <!-- <img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"> -->
 	
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> -->
@@ -86,16 +79,11 @@
   <tr>
     <!-- Left Side -->
     <td align="center" style="padding: 20px; width: 70%;">
-      <p><strong>Invited you to be part of a global developer vision</p>
-      <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
-      <br><br>
-      <a href="https://www.devdisplay.org/" target="_blank">
         <img src="https://img.shields.io/badge/Add%20Your%20Profile-007BFF?style=for-the-badge&logo=devdotto&logoColor=white" alt="Add Your Profile"/>
       </a>
     </td>
     <!-- Right Side (Logo Icon) -->
     <td align="center" style="padding: 20px; width: 30%;">
-      <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="Logo" height="80" />
     </td>
   </tr>
 </table>
