@@ -32,7 +32,7 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 ## 🚀 Projects
 
-- [ML streak](https://github.com/haaarrsssh/ml) - 5+ Machine Learning Projects
+- [ML streak](https://github.com/haaarrsssh/ml) - 20+ Machine Learning Projects
 - [Data_structures And Algorithm](https://github.com/haaarrsssh/algorithms_and_data_structures-master)
 - [Modern C++ Concepts](https://github.com/haaarrsssh/Modern-C-Concepts)
 
