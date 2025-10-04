@@ -26,9 +26,11 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haaarrsssh&show_icons=true)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haaarrssshu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haaarrsssh&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haaarrsssh&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haaarrsssh&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haaarrsssh&theme=aura&utcOffset=8)
 
 ## 🚀 Projects
 
