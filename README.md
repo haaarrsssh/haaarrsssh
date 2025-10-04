@@ -79,7 +79,6 @@
   <tr>
     <!-- Left Side -->
     <td align="center" style="padding: 20px; width: 70%;">
-        <img src="https://img.shields.io/badge/Add%20Your%20Profile-007BFF?style=for-the-badge&logo=devdotto&logoColor=white" alt="Add Your Profile"/>
       </a>
     </td>
     <!-- Right Side (Logo Icon) -->
