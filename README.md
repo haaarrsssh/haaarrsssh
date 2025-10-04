@@ -34,8 +34,8 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 - [ML streak](https://github.com/haaarrsssh/ml) - 5+ Machine Learning Projects
 - [Notes and code for Programming Massively Parallel Processors](https://github.com/harrrsssh/PMPP_notes)
-- [algorithms_and_data_structures-master](https://github.com/haaarrsssh/algorithms_and_data_structures-master)
-- [Modern C++ Concepts](https://github.com/haaarrsssh/modern-cpp-concepts)
+- [Data_structures ANd Algorithm](https://github.com/haaarrsssh/algorithms_and_data_structures-master)
+- [Modern C++ Concepts](https://github.com/haaarrsssh/Modern-C-Concepts)
 
 ## 🌱 Latest Blog Posts
 
