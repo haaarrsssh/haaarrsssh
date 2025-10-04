@@ -92,21 +92,3 @@
 </div>
 
 
-<!--- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=haaarrsssh&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=14141c&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-</p> --->
-
-<!--- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haaarrsssh&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=14141c&title_color=00ACC1&langs_count=15&layout=compact" /> --->
-
- <!--## 💌 Sponser
-
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://www.buymeacoffee.com/haaarrsssh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
-  </a>
-
-<a href="https://github.com/sponsors/haaarrsssh" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github" alt="GitHub Sponsor" />
-</a>
-
-</div>-->
